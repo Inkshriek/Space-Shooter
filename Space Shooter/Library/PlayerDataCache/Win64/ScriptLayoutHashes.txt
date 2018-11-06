@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/noahj/OneDrive/Documents/GitHub/whistle/Space Shooter/Build/Space Shooter.exe
+C:/Users/noahj/OneDrive/Documents/GitHub/Space-Shooter/Space Shooter/Build/Space Shooter.exe
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
@@ -87,6 +87,7 @@ a44114bd4fa541174f78b4bb92bacb48 UnityEngine.UI.dll:UnityEngine.EventSystems.Sta
 e90403eeda069970e0b9de1533de13a6 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 2d58ca16854b99daea8c45e9c0f367b7 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 16da51d1b62ef6d4ee1849350434023b UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+f54882232c312791285b6b538d60d11a Assembly-CSharp.dll:.WeaponController
 d3baf945a28bf6b4a4706c8193e7459e Assembly-CSharp.dll:.Done_Mover
 486cd95c82d8305219c352c06b776e1f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 9e61f3535f3c55760a1cedfbd114f4af UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -100,6 +101,7 @@ c7dd12c15208b0447e101f80038706df UnityEngine.Timeline.dll:UnityEngine.Timeline.A
 0ddb2c46096a1e59e0dce07886ce4769 UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 0ddb2c46096a1e59e0dce07886ce4769 UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 64f3a13c1277a7f1324321d93d0ec13b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+099024fec6e6b3e93f970458537f0b7e Assembly-CSharp.dll:.BGScroller
 66b3109aa5921cf800bec17926c6adba Unity.TextMeshPro.dll:TMPro.TMP_SubMeshUI
 201273fb4f889724fb090164b7d6c657 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 486cd95c82d8305219c352c06b776e1f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -124,7 +126,7 @@ e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSyste
 98d69a140ec0084cde3b6a5e09aea295 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 96f3ea9f23b6f08e60710ebb4af49174 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
-957c215a712d2a6751eba1e021cc83f6 Assembly-CSharp.dll:.GameController
+3e173677fe9b327884306decfcf7f463 Assembly-CSharp.dll:.GameController
 533b68bbe8c4aff10571e26d1036683f Assembly-CSharp.dll:.Done_EvasiveManeuver
 ba1dc7221ef32196712350a64d363c8f Assembly-CSharp.dll:.RandomRotator
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
@@ -174,6 +176,7 @@ aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 4e7eddb771817168562dde29334d343e Assembly-CSharp.dll:.Done_PlayerController
 ba1dc7221ef32196712350a64d363c8f Assembly-CSharp.dll:.Done_RandomRotator
+f3a70936739874cf7752b4024ce8a445 Assembly-CSharp.dll:.EvasiveManeuver
 2f9af06a78208a67db480e9bfed4a076 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 099024fec6e6b3e93f970458537f0b7e Assembly-CSharp.dll:.Done_BGScroller
